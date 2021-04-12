@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MattWindle26
+- 👋 Hi, I’m @MattWindle26 a web developer at EKM.com
 - 👀 I’m interested in all things web related but I am currently looking at React.js
 - 🌱 I’m currently learning React.JS
 
